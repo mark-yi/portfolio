@@ -57,7 +57,7 @@ export default function ThingsILikePage() {
               <p>products that solve real problems elegantly</p>
               <p>open source maintainers who build for everyone</p>
               <p>indie hackers building sustainable businesses</p>
-              <p>minimalist design that doesn't sacrifice function</p>
+              <p>minimalist design that doesn&apos;t sacrifice function</p>
               <p>people who share what they learn</p>
             </div>
           </div>
