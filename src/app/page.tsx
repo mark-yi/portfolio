@@ -3,16 +3,16 @@ export default function HomePage() {
     <div className="w-2/5 mx-auto px-4 py-16">
       <div className="space-y-8">
         <h1 className="text-4xl font-bold text-gray-900">
-          hi, i'm mark.
+          hi, i&apos;m mark.
         </h1>
         
         <div className="text-lg text-gray-700 space-y-6 leading-relaxed">
           <p>
-            i'm just a person who loves creating things for others.
+            i&apos;m just a person who loves creating things for others.
           </p>
           
           <p>
-            started coding when i was 12 and haven't stopped since. 
+            started coding when i was 12 and haven&apos;t stopped since. 
             i believe in building simple, elegant solutions that actually work.
           </p>
           
@@ -23,11 +23,11 @@ export default function HomePage() {
           
           <p>
             i think the best software is invisible - it just works exactly 
-            how you'd expect it to, without getting in your way.
+            how you&apos;d expect it to, without getting in your way.
           </p>
           
           <p>
-            when i'm not coding, you'll find me reading, exploring new places,
+            when i&apos;m not coding, you&apos;ll find me reading, exploring new places,
             or thinking about how to make the web a better place for everyone.
           </p>
         </div>

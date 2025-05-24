@@ -12,7 +12,7 @@ export default function ThingsILikePage() {
               tech stuff
             </h2>
             <div className="text-gray-700 leading-relaxed space-y-2">
-              <p>react and typescript for building uis that don't break</p>
+              <p>react and typescript for building uis that don&apos;t break</p>
               <p>next.js because it makes everything easier</p>
               <p>tailwind css for styling without the mess</p>
               <p>vercel for deployment that just works</p>
@@ -27,11 +27,11 @@ export default function ThingsILikePage() {
               books i recommend
             </h2>
             <div className="text-gray-700 leading-relaxed space-y-2">
-              <p>"the pragmatic programmer" - changed how i think about code</p>
-              <p>"designing data-intensive applications" - for understanding systems</p>
-              <p>"atomic habits" - small changes, big results</p>
-              <p>"project hail mary" - best sci-fi i've read in years</p>
-              <p>"the mom test" - how to actually talk to customers</p>
+              <p>&quot;the pragmatic programmer&quot; - changed how i think about code</p>
+              <p>&quot;designing data-intensive applications&quot; - for understanding systems</p>
+              <p>&quot;atomic habits&quot; - small changes, big results</p>
+              <p>&quot;project hail mary&quot; - best sci-fi i&apos;ve read in years</p>
+              <p>&quot;the mom test&quot; - how to actually talk to customers</p>
             </div>
           </div>
 
@@ -67,7 +67,7 @@ export default function ThingsILikePage() {
               random interests
             </h2>
             <div className="text-gray-700 leading-relaxed space-y-2">
-              <p>making coffee that doesn't suck</p>
+              <p>making coffee that doesn&apos;t suck</p>
               <p>mechanical keyboards (currently typing on a keychron k8)</p>
               <p>walking around cities with no destination</p>
               <p>photography when i remember to bring my camera</p>

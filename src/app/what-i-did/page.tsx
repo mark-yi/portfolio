@@ -87,7 +87,7 @@ export default function WhatIDidPage() {
 
         <div className="pt-8 border-t border-gray-200">
           <p className="text-gray-600">
-            some stuff worked out. most of it didn't.
+            some stuff worked out. most of it didn&apos;t.
             but i learned something from everything.
           </p>
         </div>
