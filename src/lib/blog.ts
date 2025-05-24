@@ -32,10 +32,10 @@ export function getAllPosts(): BlogPost[] {
 
       return {
         slug,
-        title: data.title || slug,
-        date: data.date || new Date().toISOString(),
-        excerpt: data.excerpt,
-        tags: data.tags || [],
+        title: (data.title as string) ?? slug,
+        date: (data.date as string) ?? new Date().toISOString(),
+        excerpt: data.excerpt as string | undefined,
+        tags: (data.tags as string[]) ?? [],
         content,
         readingTime: readingTimeText,
       } as BlogPost
@@ -65,14 +65,14 @@ export function getPostBySlug(slug: string): BlogPost | null {
 
     return {
       slug,
-      title: data.title || slug,
-      date: data.date || new Date().toISOString(),
-      excerpt: data.excerpt,
-      tags: data.tags || [],
+      title: (data.title as string) ?? slug,
+      date: (data.date as string) ?? new Date().toISOString(),
+      excerpt: data.excerpt as string | undefined,
+      tags: (data.tags as string[]) ?? [],
       content,
       readingTime: readingTimeText,
     }
-  } catch (error) {
+  } catch {
     return null
   }
 } 
