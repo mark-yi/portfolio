@@ -20,7 +20,7 @@ function Navigation() {
     <nav className="w-full z-50 bg-white/80 backdrop-blur-sm">
       <div className="w-2/5 mx-auto px-4 py-4">
         <div className="flex gap-6">
-          <Link href="/" className="text-gray-600 hover:text-gray-900">
+          <Link href="/why-i-do" className="text-gray-600 hover:text-gray-900">
             why i do
           </Link>
           <Link href="/what-i-did" className="text-gray-600 hover:text-gray-900">
@@ -42,7 +42,7 @@ export default function RootLayout({
     <html lang="en" className={`${manrope.variable}`}>
       <body className="bg-white text-gray-900">
         <Navigation />
-        <main className="pt-20">
+        <main className="pt-4">
           {children}
         </main>
       </body>

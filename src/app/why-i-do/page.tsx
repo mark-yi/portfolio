@@ -3,8 +3,8 @@ import { getPostBySlug } from '~/lib/blog'
 import { MDXRemote } from 'next-mdx-remote/rsc'
 import { useMDXComponents } from '../../../mdx-components'
 
-export default function WhatIDidPage() {
-  const post = getPostBySlug('what-i-did')
+export default function WhyIDoPage() {
+  const post = getPostBySlug('why-i-do')
 
   if (!post) {
     notFound()
