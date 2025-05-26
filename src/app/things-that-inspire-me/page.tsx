@@ -4,7 +4,7 @@ import { MDXRemote } from 'next-mdx-remote/rsc'
 import { useMDXComponents } from '../../../mdx-components'
 
 export default function ThingsILikePage() {
-  const post = getPostBySlug('things-i-like')
+  const post = getPostBySlug('things-that-inspire-me')
 
   if (!post) {
     notFound()
