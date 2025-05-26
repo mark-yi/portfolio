@@ -2,35 +2,53 @@
 title: "why i do"
 date: "2024-01-01"
 excerpt: "what drives me to build things"
-tags: ["philosophy", "motivation"]
+tags: [""]
 ---
 
 # why i do
 
-i've been thinking about what drives me to build things.
+to raise the ceiling.
 
-## it started early
+i grew up in a small, poor city in an island of hawaii. my and my friends' dream was to work at the local levi's. 
 
-when i was 12, i wrote my first line of code. not because i had to, but because i was curious. that curiosity never left.
+20% off your favorite jeans? no-brainer.
 
-## the real why
+around high school i moved to the city where celebrity spottings were the norm.
 
-i build things because:
+    > "she lives in the same community as justin bieber"
 
-- **problems are everywhere** - and most of them can be solved with good software
-- **simplicity is powerful** - the best solutions are often the simplest ones
-- **impact matters** - code that helps people is code worth writing
+    > "he's neighbors with kanye"
 
-## what keeps me going
+    > "i saw the kardashians at starbucks"
 
-every bug fixed, every feature shipped, every "thank you" from a user - these small moments add up to something meaningful.
+these kids thought college was a foregone conclusion.
+    
+    > "harvard is my reach, ucla is just a safety"
+    
+    > "you shouldn't apply to berkeley if you don't want to go. it'll hurt my chances of getting in"
 
-i believe the best software is invisible. it just works exactly how you'd expect it to, without getting in your way.
+    > "i'll see you at elite!"
 
-## the bigger picture
+the local island boys couldn't have even dreamt up going to harvard. the entire town erupted (and still talks about it) when one of our very own got accepted to stanford.
 
-technology should make life better, not more complicated. that's what i'm working toward, one project at a time.
+i fundamentally believe that the local island boy is no different than kanye's neighbor, the harvard reacher. one had access to a vast ocean of resources while the other ditched pre-calc to go swim in the ocean. 
+
+the local island boy has no clue what "elite" is, let alone what an sat prep camp is (he didn't even take the sat because he didn't think he was "college-material").
+
+one believed that his ceiling was to work part-time at levi's one day. the other believed his ceiling was to go to harvard and probably become an exec at levi's corporate one day.
 
 ---
 
-*building things that matter, one line of code at a time.* 
+when i was working to become a teacher, i loved the "aha" moments with kids. when they realized that they were smarter than they believed they were. i was working to increase self-belief.
+
+i quickly realized that i desired an impact beyond a single classroom. i wanted to impact many classrooms. 
+
+i wanted to impact all of education. 
+
+technology allows me to scale my impact. a single product i build can benefit 10,000s of superintendents and can have cascading impacts to the 100,000s of teachers and 1,000,000s of students. 
+
+i build for that island boy to believe he has a higher ceiling.
+
+---
+
+*building things that matter* 

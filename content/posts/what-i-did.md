@@ -7,37 +7,47 @@ tags: ["experience", "projects"]
 
 # what i did
 
-## senior frontend engineer at startup x
-*2022 - 2024*
+## product lead, national at edapt
+*2024-present*
 
-built the entire frontend from scratch using react and typescript.
-worked directly with the ceo to define product direction.
-scaled the platform from 0 to 10k+ daily active users.
-implemented realtime features, payment systems, and mobile-responsive design.
+## research associate at digital learning lab uci
+*2024*
 
-## freelance full-stack developer
-*2020 - 2022*
+## co-founder at educado
+*2024*
 
-helped early-stage startups and small businesses build their mvps.
-worked with react, node.js, postgresql, and aws.
-specialized in rapid prototyping and clean, maintainable code.
-delivered 15+ projects on time and under budget.
+## associate product manager at great minds
+*2022-2024*
 
-## open source projects
-*ongoing*
+## product assistant at cengage
+*2020-2022*
 
-**project alpha** - a lightweight state management library for react. 2k+ stars on github.
+## tutored at various companies
+*2015-2020*
 
-**cli tool beta** - command line tool for automating common development tasks. written in rust.
+started tutoring at mathnasium as a sophomore in high school (my first resume's experience section read "nothing")
 
-**blog posts & tutorials** - wrote technical articles that have been read by 50k+ developers.
+tutored student athletes in college
+
+tutored some top 1%ers program
 
 ## random experiments
 
-built a chrome extension that got 1k+ users before i got bored.
-created a slack bot that helped teams track their goals.
-made a tiny weather app that just shows if you need a jacket.
-built and launched dozens of small projects that taught me something new.
+grew work in edtech (wie), the first open edtech job aggregator, to 5k+ monthly users
+
+grew wie's linkedin company profile to 10k+ followers
+
+grew wie's company newsletter to 4k+ subscribers
+
+pitched an edtech vc wie's job board services
+
+edtech user research consultancy
+
+launched a slack community for laid off tech workers to find new opprtunities
+
+edited a few videos, got 250k+ views on a couple clip compilations
+
+grew faceless instagram, got 30k+ followers and multiple 1 million+ view reels
 
 ---
 

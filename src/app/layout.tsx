@@ -26,8 +26,8 @@ function Navigation() {
           <Link href="/what-i-did" className="text-gray-600 hover:text-gray-900">
             what i did
           </Link>
-          <Link href="/things-i-like" className="text-gray-600 hover:text-gray-900">
-            things i like
+          <Link href="/things-that-inspire-me" className="text-gray-600 hover:text-gray-900">
+            things that inspire me
           </Link>
         </div>
       </div>
